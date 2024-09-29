@@ -11,34 +11,30 @@ redirect_from:
 
 Education
 ======
-* M.S. in Natioanal University of Singapore, Singapore, 2023 - 2024
-* B.S. in Wuhan University, China, 2019 - 2023
+__Natioanal University of Singapore, Singapore__ &emsp;&emsp; Sep 2023 - Aug 2024<br>
+*M.S. in Applied Geographic Information System (4.5/5.0)*
 
-Work experience
+__Wuhan University, Hubei, China__ &emsp;&emsp;Sep 2019 - Jun 2023<br>
+*B.A. in Geographic Information Science (3.78/4.0)*
+
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+__WebGIS Developer Intern__, Guangzhou Urban Planning Survey & Design Institute &emsp;&emsp; Nov 2023 - Jan 2024<br> 
+● Built a WebAR application with AR.js and A-Frame to visualize underground pipelines, allowing real-time rendering by location and category. <br>
+● Developed interactive features for users to add new pipelines in AR, with seamless integration into the database.<br>
+● Enhanced urban infrastructure management by delivering a WebAR solution that improved pipeline visualization and decision-making.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research Experience
+======
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+__GIS and Mapping__: ArcGIS Pro, ArcMap, QGIS, ArcGIS Online, PostgreSQL, Google Earth, ENVI<br>
+__Programming__: Python, R, JavaScript, HTML & CSS, SQL <br>
+__Library__: Geopandas, Network X, ArcPy, ggplot2, AR.js, OpenLayers, ArcGIS Maps SDK for JS<br>
+__Language__: Chinese (Native), English (Proficient), Cantonese (Native)
+
 
 Publications
 ======
@@ -46,18 +42,20 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Conference & Presentation
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
+<!--
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+-->  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
