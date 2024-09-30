@@ -26,7 +26,19 @@ __WebGIS Developer Intern__, Guangzhou Urban Planning Survey & Design Institute 
 
 Research Experience
 ======
+__Analyzing Singapore’s Green View Index using Google Street View__&emsp;&emsp;Aug 2023 – Nov 2023<br>
+*Spatial Programming Course Project* <br>
+● Downloaded Google Street View images of 30,000+ road sampling points in Singapore, used FCN to perform semantic segmentation on the images, and calculated the Green View Index<br>
+● Built a road network using NetworkX to find travel paths with high vegetation coverage based on Yan’s k-shortest path algorithm, and used leafmap for interactive map visualization<br>
 
+__Campus Map Design and Analysis of the Rationality of the Dormitory Distribution__&emsp;&emsp;Jun 2022 – Jul 2022<br>
+*Practice of Geographic Information System Course Project*<br>
+● Set up indicators from various aspects of transportation such as subway stations, bust stops and school gates to assess the rationality of the dormitory distribution<br>
+● Created a QGIS Python Plugin to calculate spatial accessibility of campus dormitories using PyQGIS and PyQt
+
+__WebGIS and Location-based Service Course Project__&emsp;&emsp;Mar 2022 – Jun 2022<br>
+● Created a story map about China’s population and gender distribution using ArcGIS StoryMaps<br>
+● Develop a web-based footprint map application using AJAX, Servlet, PostGreSQL and PostGIS
 
 Skills
 ======
@@ -38,16 +50,24 @@ __Language__: Chinese (Native), English (Proficient), Cantonese (Native)
 
 Publications
 ======
+Zhang, S., Liu, L., Meng, Q., __Zhang, Y.__, Yang, H., & Xu, G. (2023). Spatiotemporal patterns of the Omicron wave of COVID-19 in the United States. Tropical Medicine and Infectious Disease, 8(7), 349.
+
+<!--
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+-->  
 Conference & Presentation
 ======
+Greener and Healthier Urban Mobility: A Comprehensive Analysis of Green Routes in Singapore using Green View Index<br>
+*The 3rd Workshop of Asian Young Geographers (Dec 16, 2023)*
+
+<!--
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+-->
+
 <!--
 Teaching
 ======
@@ -58,4 +78,5 @@ Teaching
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+__GISphere Member__&emsp;&emsp;Apr 2024 – Present<br>
+● Using LLM and Python web crawlers to collect and aggregate global geography departments and faculty information
