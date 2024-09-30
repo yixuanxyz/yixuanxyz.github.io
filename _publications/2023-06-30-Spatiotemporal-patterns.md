@@ -1,7 +1,7 @@
 ---
 title: "Spatiotemporal patterns of the Omicron wave of COVID-19 in the United States"
 collection: publications
-category: manuscripts # conference
+category: manuscripts
 permalink: /publication/2023-06-30-Spatiotemporal-patterns
 excerpt: 'In this paper, we analyzed the Omicron wave's spread in the U.S. from December 2021 to February using space-time scan statistics. The results show rapid nationwide spread, with the epicenter shifting from the west to the east, then southwest.'
 date: 2023-06-30
