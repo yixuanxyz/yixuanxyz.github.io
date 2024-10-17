@@ -33,7 +33,7 @@ __Analyzing Singapore’s Green View Index using Google Street View__&emsp;&emsp
 
 __Campus Map Design and Analysis of the Rationality of the Dormitory Distribution__&emsp;&emsp;Jun 2022 – Jul 2022<br>
 *Practice of Geographic Information System Course Project*<br>
-● Set up indicators from various aspects of transportation such as subway stations, bust stops and school gates to assess the rationality of the dormitory distribution<br>
+● Set up indicators from various aspects of transportation such as subway stations, bus stops and school gates to assess the rationality of the dormitory distribution<br>
 ● Created a QGIS Python Plugin to calculate spatial accessibility of campus dormitories using PyQGIS and PyQt
 
 __WebGIS and Location-based Service Course Project__&emsp;&emsp;Mar 2022 – Jun 2022<br>
@@ -57,7 +57,8 @@ Zhang, S., Liu, L., Meng, Q., __Zhang, Y.__, Yang, H., & Xu, G. (2023). Spatiote
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 -->  
-Conference & Presentation
+
+Conference and Presentation
 ======
 Greener and Healthier Urban Mobility: A Comprehensive Analysis of Green Routes in Singapore using Green View Index<br>
 *The 3rd Workshop of Asian Young Geographers (Dec 16, 2023)*
@@ -76,7 +77,7 @@ Teaching
   {% endfor %}</ul>
 -->  
 
-Service and leadership
+Service and Leadership
 ======
 __GISphere Member__&emsp;&emsp;Apr 2024 – Present<br>
 ● Using LLM and Python web crawlers to collect and aggregate global geography departments and faculty information
